@@ -1,0 +1,51 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*INDEX*/
+
+
+
+
+/*Aside*/
+
+
+/*Footer*/
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color:beige
+
+}
+.grupo-1 {
+    color: black;
+    padding: 10px;
+}
+.grupo-2{
+    display: block;
+    justify-content: center;
+    text-align: center;
+
+}
+.grupo-3{
+    display: block;
+    align-items: flex-end;
+    
+}
+
+
+
+/*CONTACTO*/
+
+
+
+.formulario{
+    width: 600px;
+    margin: 20px auto;
+    
+
+}
